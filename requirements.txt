@@ -1,0 +1,6 @@
+mcp>=1.0.0
+pyserial>=3.5
+fastmcp>=0.1.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+asyncio-subprocess>=0.1.0
